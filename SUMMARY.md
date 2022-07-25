@@ -10,6 +10,9 @@
 
 * [How it Works](fundamentals/how-it-works.md)
 
-## Cardano-IoT
+## Python-IoT
 
-* [Guide](cardano-iot/guide.md)
+* [Codebase](python-iot/codebase.md)
+* [Examples](python-iot/examples.md)
+* [Resources](python-iot/resources.md)
+* [Roadmap](python-iot/roadmap.md)
