@@ -10,6 +10,6 @@
 
 * [How it Works](fundamentals/how-it-works.md)
 
-## Resources
+## Cardano-IoT
 
-* [Page 1](resources/page-1.md)
+* [Guide](cardano-iot/guide.md)
