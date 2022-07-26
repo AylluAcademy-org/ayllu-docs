@@ -1,14 +1,14 @@
 # Our Mission, Vision, and Values
 
-## <mark style="color:yellow;">Our Mission</mark>
+## <mark style="color:red;">Our Mission</mark>
 
 At Ayllu Academy, our mission is to employ new technologies and paradigms to boost the technological and educational development in Latin America. We do not seek to commoditize, or monetize education; but instead to give its value and power back to the users that participate of the educational process.
 
-## <mark style="color:yellow;">Our Vision</mark>
+## <mark style="color:red;">Our Vision</mark>
 
 Our vision is not only to become a widely used open source educational platform in Latin America, but also a repertoire of open source blockchain tooling that drives educational impact in many regions of the world.
 
-## <mark style="color:yellow;">Our Value Statements</mark>
+## <mark style="color:red;">Our Value Statements</mark>
 
 ### Value Constructive Conflict
 
