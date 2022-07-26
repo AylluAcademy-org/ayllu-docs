@@ -19,13 +19,8 @@ A [pull request](https://docs.github.com/en/github/collaborating-with-issues-and
 ### :question: Support
 We are a very small team working hard to keep up with the documentation, and project demands of a continuously changing product. Unfortunately, at times we might be a bit slow at reviewing, documenting, updating code, and/or merging PRs. Please forgive us in advance for little delays; but know we will do everything possible to get things in order as soon as possible
 
-### :earth_asia: Español 	:es:
+### :earth_asia: Español
 
 We are well aware the nature of our project is geared towards Spanish Speaking regions, however, the code itself is not limited to only those regions and we hope it can get used worldwide in many different applications; with that in mind, we believe is best to keep the code, and documentation primarily in English to facilitate world wide collaboration. It's worth mentioning we will be including Spanish translations of the documentation in the future. 
 
 **We do not currently accept contributions for translated content**, but we hope to in the future.
-
-### :balance_scale: Site Policy
-GitHub's site policies are published on docs.github.com, too!
-
-If you find a typo in the site policy section, you can open a pull request to fix it. For anything else, see [the CONTRIBUTING guide in the site-policy repo](https://github.com/github/site-policy/blob/main/CONTRIBUTING.md).
