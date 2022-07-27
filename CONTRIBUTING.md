@@ -19,7 +19,7 @@ Here are some resources to help you get started with open source contributions:
 
 ## 2.0 Getting Started
 
-Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+Check to see what [types of contributions](/contributing-ref/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
 
 To navigate our repositories and codebase more efficiently, please be sure to check out our [Gitbook](https://ayllu.gitbook.io/ayllu-documentation/); in there we will have detailed sections dedicated to each repository. Note each reapository also has a README file with some information about the respective code, however we encourgae you to use our [Gitbook](https://ayllu.gitbook.io/ayllu-documentation/), as it's our go-to place for documentation.
 
