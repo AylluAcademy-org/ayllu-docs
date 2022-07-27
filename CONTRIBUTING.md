@@ -1,10 +1,12 @@
 # Welcome to Ayllu Academy contributing guide
 
-First of all, we would like to thank you for investing some of your time into contributing into our project!
+**First of all**, we would like to thank you for investing some of your time into contributing into our project!
 
-Secondly, in order to keep the community approachable and respectable please read our [Code of Conduct](./CODE_OF_CONDUCT.md)
+**Secondly**, in order to keep the community approachable and respectable please read our [Code of Conduct](./CODE_OF_CONDUCT.md)
 
-Lastly, please make sure you check out the table of contents on the top left corner of this document <img src="./assets/images/table-of-contents.png" width="25" height="25" /> to navigate the guide quickly.
+**Thirdly**, we encourange you to read our [Value Statements](https://ayllu-academy-docs.gitbook.io/ayllu-documentation/about-ayllu/our-mission-vision-and-values) before becoming a contributor, this will ensure you understand all contributors are on the same wavelength when working together.
+
+**Lastly**, please make sure you check out the table of contents on the top left corner of this document <img src="./assets/images/table-of-contents.png" width="25" height="25" /> to navigate the guide quickly.
 
 ## 1.0 New Contributor Guide
 
