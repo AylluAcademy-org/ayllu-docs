@@ -21,6 +21,6 @@ We are a very small team working hard to keep up with the documentation, and pro
 
 ### :earth_asia: Español
 
-We are well aware the nature of our project is geared towards Spanish Speaking regions, however, the code itself is not limited to only those regions and we hope it can get used worldwide in many different applications; with that in mind, we believe is best to keep the code, and documentation primarily in English to facilitate world wide collaboration. It's worth mentioning we will be including Spanish translations of the documentation in the future. 
+We are well aware the nature of our project is geared towards Spanish speaking regions, however, the code itself is not limited to only those regions and we hope it can get used worldwide in many different applications; with that in mind, we believe is best to keep the code, and documentation primarily in English to facilitate world wide collaboration. It's worth mentioning we will be including Spanish translations of the documentation in the future. 
 
 **We do not currently accept contributions for translated content**, but we hope to in the future.
